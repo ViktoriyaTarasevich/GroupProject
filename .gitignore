@@ -1,0 +1,4 @@
+/FileExchange/packages/*
+!repositories.config
+/FileExchange/*/bin
+/FileExchange/*/obj
